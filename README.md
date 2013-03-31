@@ -1,11 +1,16 @@
 东南大学虎踞龙盘BBS iOS 客户端 持续发展计划
 ===========================================
 
+代码网站  https://github.com/yankchina/sbbs-ios
+
+文档网站  https://yankchina.github.com/sbbs-ios
+
 ## 目标：
 
 - 建立一个能够持续维护升级 sbbs ios 客户端的机制
 - 锻炼 ios 界面设计与研发的童鞋队伍
 - 培养 基于移动互联网的团队合作文化
+- 汇集网站资料，形成一个学习网络
 
 ## 工作：
 
@@ -17,3 +22,7 @@
 - 报名：
     + 我已经在 github 上 建立了一个 项目 yankchina/sbbs-ios ，大家可以fork，并且将自己的改动 pull request 回来
     + 我希望能有童鞋报名来维护这个项目，我会将成员加入项目组中；
+
+- 官方网站：
+   + 代码网站  https://github.com/yankchina/sbbs-ios
+   + 文档网站  https://yankchina.github.com/sbbs-ios
