@@ -3,7 +3,7 @@
 
 代码网站  https://github.com/yankchina/sbbs-ios
 
-文档网站  https://yankchina.github.com/sbbs-ios
+文档网站  http://yankchina.github.com/sbbs-ios
 
 ## 目标：
 
@@ -25,4 +25,4 @@
 
 - 官方网站：
    + 代码网站  https://github.com/yankchina/sbbs-ios
-   + 文档网站  https://yankchina.github.com/sbbs-ios
+   + 文档网站  http://yankchina.github.com/sbbs-ios
